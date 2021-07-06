@@ -1,2 +1,2 @@
-# teste
- Repositório para aprender a usar o GitHub Desktop
+# Testando GitHub Desktop
+ Repositório para aprender a usar o GitHub Desktop!
